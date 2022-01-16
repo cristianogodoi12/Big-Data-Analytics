@@ -1,0 +1,16 @@
+Planejamento, coordenação e execução de atividades de desenvolvimento e manutenção de sistemas.
+
+Sistema gerenciador de banco de dados:
+- Oracle, Synapse
+- SQL Server,
+- MySQL,
+- Postgress,
+- Cloudera.
+- SQL
+• Apache (Servidor, Ferramentas e Framework):
+- Hadoop; Sqoop; Hive, Flume, Kafka, Spark (scala e Python), Nifi.
+
+- Informatica DEI
+- Informatica Powercenter
+- Oracle Data Integrator (ODI)
+- Shell script Linux
